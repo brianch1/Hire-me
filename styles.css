@@ -1,0 +1,34 @@
+img{}
+body{
+    background-image: url("http://wallpaper-gallery.net/images/swag-wallpapers-tumblr/swag-wallpapers-tumblr-10.jpg");
+    font-family: 'Great Vibes', cursive;
+}
+h1{
+    color: black;
+    text-decoration: overline;
+    font-size: 40px;
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color: black;
+    text-decoration: overline;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+}
+h3{
+    color: black;
+    font-size: 30px;
+    text-decoration: overline;
+    background-color: rgb(255, 255, 255);
+}
+ul{
+    color: white;
+    
+}
+li{
+    font-size: 30px;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
